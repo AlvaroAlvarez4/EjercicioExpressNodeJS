@@ -1,0 +1,16 @@
+1 Crear Servidor con express
+    1 Con un get ('/home') -> index.html
+    2 Con dos post diferentes recoger los datos de los dos fomularios y que cuando haga click en el formulario 
+    esos datos se vean en la pantalla.
+   
+   2 Html
+    1.Estrucura boostrap Container,row, 2 col-6->responsive sean 12.
+        1.1 Que tenga un Carousel.
+        2. Tiene 2 formularios.
+            2.1. 1mer formulario sus campos son correo,contraseña,repetir constraseña.
+            2.2. direccion,ciudad,dni(falso).
+
+-Primer paso crear app.js
+-Segundo paso npm init
+-Tercer instalar librerias y modificar el package.json
+-Cuarto paso logica
